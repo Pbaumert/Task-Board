@@ -14,3 +14,10 @@ body {
   .task-card:hover {
     cursor: grab;
   }
+
+  .lane {
+    border: 2px solid #ccc;
+    min-height: 200px;
+    padding: 10px;
+  }
+  
